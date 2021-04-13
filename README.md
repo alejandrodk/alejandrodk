@@ -1,8 +1,10 @@
 ### Hi there, my name is Alejandro, i'm FullStack Developer 👋
+<a href="linkedin.com/in/alejandrodk"><img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="Linkedin" width="25" height="25"></img></a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alejandrodk&layout=compact&count_private=true&show_icons=true&theme=default)](https://github.com/anuraghazra/github-readme-stats)
+___
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="Linkedin" width="50" height="50"></img>
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alejandrodk&layout=compact&count_private=true&show_icons=true&theme=default)](https://github.com/anuraghazra/github-readme-stats)
+
 ___
 #### Front-End
 <div width="100%" style="margin-right:10">
@@ -120,10 +122,10 @@ ___
 
 ### Sample projects
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alejandrodk&repo=nestjs-events-driven-bus&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alejandrodk&repo=nestjs-boilerplate&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alejandrodk&repo=github_job_search&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alejandrodk&repo=spring-ecommerce-app&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alejandrodk&repo=nestjs-events-driven-bus&theme=nord)](https://github.com/alejandrodk/nestjs-events-driven-bus)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alejandrodk&repo=nestjs-boilerplate&theme=nord)](https://github.com/alejandrodk/nestjs-boilerplate)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alejandrodk&repo=github_job_search&theme=nord)](https://github.com/alejandrodk/github_job_search)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alejandrodk&repo=spring-ecommerce-app&theme=nord)](https://github.com/alejandrodk/spring-ecommerce-app)
 
 <!--
 <a href="https://github.com/anuraghazra/github-readme-stats">
