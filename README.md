@@ -7,22 +7,18 @@ ___
 #### Front-End
 <div width="100%" style="margin-right:10">
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="Javascript" width="25" height="25"></img>
-   <img width="5"></img>
-  <img src="https://progress-bar.dev/80" height="25" style="margin-left:5"></img>
-  <img width="5"></img>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="React" width="25" height="25"></img>
   <img width="5"></img>
   <img src="https://progress-bar.dev/80" height="25" style="margin-left:5"></img>
   <img width="5"></img>
-</div>
-<div style="margin-right:10">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" alt="HTML" width="25" height="25"></img>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="React" width="25" height="25"></img>
   <img width="5"></img>
   <img src="https://progress-bar.dev/80" height="25" style="margin-left:5"></img>
   <img width="5"></img>
-</div>
-<div style="margin-right:10">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" alt="CSS" width="25" height="25"></img>
+   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" alt="HTML" width="25" height="25"></img>
+  <img width="5"></img>
+  <img src="https://progress-bar.dev/80" height="25" style="margin-left:5"></img>
+  <img width="5"></img>
+   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" alt="CSS" width="25" height="25"></img>
   <img width="5"></img>
   <img src="https://progress-bar.dev/80" height="25" style="margin-left:5"></img>
   <img width="5"></img>
