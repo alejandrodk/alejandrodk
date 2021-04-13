@@ -3,11 +3,14 @@
 
 ___
 
-#### My GitHub stats 🌟
+### My GitHub stats 🌟
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alejandrodk&layout=compact&count_private=true&show_icons=true&theme=default)](https://github.com/anuraghazra/github-readme-stats)
 
 ___
+
+### Tech Stack
+
 #### Front-End 🎨
 <div width="100%" style="margin-right:10">
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="Javascript" width="25" height="25"></img>
