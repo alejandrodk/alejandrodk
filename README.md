@@ -30,20 +30,14 @@ ___
    <img width="5"></img>
   <img src="https://progress-bar.dev/80" height="25" style="margin-left:5"></img>
   <img width="5"></img>
-</div>
-<div style="margin-right:10">
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="Typescript" width="25" height="25"></img>
    <img width="5"></img>
   <img src="https://progress-bar.dev/80" height="25" style="margin-left:5"></img>
   <img width="5"></img>
-</div>
-<div style="margin-right:10">
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain.svg" alt="Java" width="25" height="25"></img>
    <img width="5"></img>
   <img src="https://progress-bar.dev/80" height="25" style="margin-left:5"></img>
   <img width="5"></img>
-</div>
-<div style="margin-right:10">
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python" width="25" height="25"></img>
    <img width="5"></img>
   <img src="https://progress-bar.dev/80" height="25" style="margin-left:5"></img>
@@ -56,14 +50,10 @@ ___
    <img width="5"></img>
   <img src="https://progress-bar.dev/80" height="25" style="margin-left:5"></img>
   <img width="5"></img>
-</div>
-<div style="margin-right:10">
   <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" alt="Express" width="25" height="25"></img>
    <img width="5"></img>
   <img src="https://progress-bar.dev/80" height="25" style="margin-left:5"></img>
   <img width="5"></img>
-</div>
-<div style="margin-right:10">
   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" alt="Spring" width="25" height="25"></img>
    <img width="5"></img>
   <img src="https://progress-bar.dev/80" height="25" style="margin-left:5"></img>
@@ -76,14 +66,10 @@ ___
    <img width="5"></img>
   <img src="https://progress-bar.dev/80" height="25" style="margin-left:5"></img>
   <img width="5"></img>
-</div>
-<div style="margin-right:10">
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="25" height="25"></img>
    <img width="5"></img>
   <img src="https://progress-bar.dev/80" height="25" style="margin-left:5"></img>
   <img width="5"></img>
-</div>
-<div style="margin-right:10">
   <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="25" height="25"></img>
    <img width="5"></img>
   <img src="https://progress-bar.dev/80" height="25" style="margin-left:5"></img>
@@ -96,8 +82,6 @@ ___
    <img width="5"></img>
   <img src="https://progress-bar.dev/80" height="25" style="margin-left:5"></img>
   <img width="5"></img>
-</div>
-<div style="margin-right:10">
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="25" height="25"></img>
    <img width="5"></img>
   <img src="https://progress-bar.dev/80" height="25" style="margin-left:5"></img>
@@ -110,8 +94,6 @@ ___
    <img width="5"></img>
   <img src="https://progress-bar.dev/80" height="25" style="margin-left:5"></img>
   <img width="5"></img>
-</div>
-<div style="margin-right:10">
   <img src="https://github.com/devicons/devicon/blob/master/icons/bitbucket/bitbucket-original.svg" alt="Bitbucket" width="25" height="25"></img>
    <img width="5"></img>
   <img src="https://progress-bar.dev/80" height="25" style="margin-left:5"></img>
@@ -124,14 +106,10 @@ ___
    <img width="5"></img>
   <img src="https://progress-bar.dev/80" height="25" style="margin-left:5"></img>
   <img width="5"></img>
-</div>
-<div style="margin-right:10">
   <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" alt="NPM" width="25" height="25"></img>
    <img width="5"></img>
   <img src="https://progress-bar.dev/80" height="25" style="margin-left:5"></img>
   <img width="5"></img>
-</div>
-<div style="margin-right:10">
   <img src="https://github.com/devicons/devicon/blob/master/icons/gradle/gradle-plain.svg" alt="Gradle" width="25" height="25"></img>
    <img width="5"></img>
   <img src="https://progress-bar.dev/80" height="25" style="margin-left:5"></img>
