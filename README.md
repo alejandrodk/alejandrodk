@@ -10,9 +10,7 @@ ___
    <img width="5"></img>
   <img src="https://progress-bar.dev/80" height="25" style="margin-left:5"></img>
   <img width="5"></img>
-</div>
-<div style="margin-right:10">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="React" width="25" height="25"></img>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="React" width="25" height="25"></img>
   <img width="5"></img>
   <img src="https://progress-bar.dev/80" height="25" style="margin-left:5"></img>
   <img width="5"></img>
