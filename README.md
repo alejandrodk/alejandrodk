@@ -3,10 +3,12 @@
 
 ___
 
+#### My GitHub stats 🌟
+
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alejandrodk&layout=compact&count_private=true&show_icons=true&theme=default)](https://github.com/anuraghazra/github-readme-stats)
 
 ___
-#### Front-End
+#### Front-End 🎨
 <div width="100%" style="margin-right:10">
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="Javascript" width="25" height="25"></img>
   <img width="5"></img>
@@ -26,7 +28,7 @@ ___
   <img width="5"></img>
 </div>
 
-#### Back-End
+#### Back-End ⚙
 <div style="margin-right:10">
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg" alt="NodeJs" width="25" height="25"></img>
    <img width="5"></img>
@@ -46,7 +48,7 @@ ___
   <img width="5"></img>
 </div>
 
-#### Frameworks
+#### Frameworks 🛠
 <div style="margin-right:10">
   <img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-plain.svg" alt="NestJs" width="25" height="25"></img>
    <img width="5"></img>
@@ -62,7 +64,7 @@ ___
   <img width="5"></img>
 </div>
 
-#### Infra
+#### Infra 🧱
 <div style="margin-right:10">
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg" alt="Docker" width="25" height="25"></img>
    <img width="5"></img>
@@ -78,7 +80,7 @@ ___
   <img width="5"></img>
 </div>
 
-#### Databases
+#### Databases 🛢
 <div style="margin-right:10">
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" alt="Mongodb" width="25" height="25"></img>
    <img width="5"></img>
@@ -90,7 +92,7 @@ ___
   <img width="5"></img>
 </div>
 
-#### Version and Projects Managers
+#### Version and Projects Managers 📌
 <div style="margin-right:10">
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="Git" width="25" height="25"></img>
    <img width="5"></img>
@@ -102,7 +104,7 @@ ___
   <img width="5"></img>
 </div>
 
-#### Package Managers
+#### Package Managers 📦
 <div style="margin-right:10">
   <img src="https://github.com/devicons/devicon/blob/master/icons/yarn/yarn-original.svg" alt="Yarn" width="25" height="25"></img>
    <img width="5"></img>
