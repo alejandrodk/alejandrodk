@@ -128,7 +128,7 @@ ___
 ### Sample projects
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alejandrodk&repo=nestjs-events-driven-bus&theme=nord)](https://github.com/alejandrodk/nestjs-events-driven-bus)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alejandrodk&repo=nestjs-boilerplate&theme=nord)](https://github.com/alejandrodk/nestjs-boilerplate)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alejandrodk&repo=mercado-libre-coupons&theme=nord)](https://github.com/alejandrodk/nestjs-boilerplate)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alejandrodk&repo=github_job_search&theme=nord)](https://github.com/alejandrodk/github_job_search)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alejandrodk&repo=spring-ecommerce-app&theme=nord)](https://github.com/alejandrodk/spring-ecommerce-app)
 
