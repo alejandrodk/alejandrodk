@@ -75,7 +75,7 @@ ___
   <img width="5"></img>
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="25" height="25"></img>
    <img width="5"></img>
-  <img src="https://progress-bar.dev/70" height="25" style="margin-left:5"></img>
+  <img src="https://progress-bar.dev/40" height="25" style="margin-left:5"></img>
   <img width="5"></img>
   <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="25" height="25"></img>
    <img width="5"></img>
