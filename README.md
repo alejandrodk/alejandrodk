@@ -43,7 +43,7 @@ ___
   <img width="5"></img>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain.svg" alt="Java" width="25" height="25"></img>
    <img width="5"></img>
-  <img src="https://progress-bar.dev/30" height="25" style="margin-left:5"></img>
+  <img src="https://progress-bar.dev/60" height="25" style="margin-left:5"></img>
   <img width="5"></img>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python" width="25" height="25"></img>
    <img width="5"></img>
