@@ -1,13 +1,9 @@
 ### Hi there, my name is Alejandro, i'm FullStack Developer 👋
-<a href="linkedin.com/in/alejandrodk"><img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="Linkedin" width="25" height="25"></img></a>
-
-___
+Linkedin Profile 👉🏻 <a href="linkedin.com/in/alejandrodk"><img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="Linkedin" width="25" height="25"></img></a>
 
 ### My GitHub stats 🌟
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alejandrodk&layout=compact&count_private=true&show_icons=true&theme=default)](https://github.com/anuraghazra/github-readme-stats)
-
-___
 
 ### Tech Stack
 
