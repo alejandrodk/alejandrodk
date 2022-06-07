@@ -4,7 +4,7 @@ Linkedin Profile 👉🏻 <a href="linkedin.com/in/alejandrodk"><img src="https:
 ### My GitHub stats 🌟
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alejandrodk&layout=compact&count_private=true&show_icons=true&theme=default)](https://github.com/anuraghazra/github-readme-stats)
-
+<!--
 ### Tech Stack
 
 #### Front-End 🎨
@@ -74,7 +74,7 @@ Linkedin Profile 👉🏻 <a href="linkedin.com/in/alejandrodk"><img src="https:
   <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" alt="NPM" width="25" height="25"></img>
   <img width="5"></img>
 </div>
-
+-->
 ___
 
 ### Contributions
