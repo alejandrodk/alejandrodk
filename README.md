@@ -3,7 +3,7 @@ Linkedin Profile 👉🏻 <a href="linkedin.com/in/alejandrodk"><img src="https:
 
 ### My GitHub stats 🌟
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alejandrodk&layout=compact&count_private=true&show_icons=true&theme=default&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alejandrodk&layout=compact&count_private=true&show_icons=true&theme=default&langs_count=20)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 ### Tech Stack
 
