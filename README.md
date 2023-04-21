@@ -1,4 +1,4 @@
-### Hi there, my name is Alejandro, i'm FullStack Developer 👋
+### Hi there, my name is Alejandro, i'm Backend Developer 👋
 Linkedin Profile 👉🏻 <a href="linkedin.com/in/alejandrodk"><img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="Linkedin" width="25" height="25"></img></a>
 
 ### My GitHub stats 🌟
